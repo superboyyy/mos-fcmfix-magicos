@@ -1,0 +1,20 @@
+# Build outputs
+/build/
+*.apk
+*.apk.idsig
+*.ap_
+*.dex
+*.class
+
+# Signing keys & local secrets
+*.jks
+*.keystore
+*.p12
+*.pem
+local.properties
+
+# OS / IDE files
+.DS_Store
+.idea/
+*.iml
+.vscode/
